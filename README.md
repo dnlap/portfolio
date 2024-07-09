@@ -36,6 +36,7 @@ Multi classification of a time series imbalanced dataset with Python.
 ### Phoneworld
 [GitHub Repo](https://github.com/dnlap/phoneworld-1)
 ![logo](/assets/img/phoneworld.png)
+
 PhoneWorld is an application that everyone should use before buying a new phone or just to feed the desire to know which smartphone is considered the best by the community.
 - Built with Java (framework used: Spring Data MongoDB, JavaFX, JUnit).
 - Initial dataset processed with Python.
@@ -43,6 +44,7 @@ PhoneWorld is an application that everyone should use before buying a new phone 
 
 ### Suit the job
 [GitHub Repo](https://github.com/dnlap/Suit-the-job)
+
 A resume classification model using a Linkedin dataset obtained from Kaggle. 
 The job postings are classified in 2 classes: "STEM" or "not STEM".
 There are plenty of popular skills for these jobs.
@@ -54,6 +56,7 @@ This task evolves into a more vertical job market analysis, focusing primarily o
 
 ### Search Engine - Inverted Index
 [GitHub Repo](https://github.com/F-Zinga/MIRCV-project)
+
 A search engine for text retrieval, leveraging an inverted index structure based on the MSMARCO Passages collection. The goal is to efficiently process queries and rank relevant documents for users.
 ![searchengine](/assets/img/searchengine.png)
 
