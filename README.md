@@ -35,8 +35,23 @@ Multi classification of a time series imbalanced dataset with Python.
 
 ### Phoneworld
 [GitHub Repo](https://github.com/dnlap/phoneworld-1)
-![logo](/assets/img.phoneworld.png)
+![logo](/assets/img/phoneworld.png)
 PhoneWorld is an application that everyone should use before buying a new phone or just to feed the desire to know which smartphone is considered the best by the community.
-Built with Java. Initial dataset processed with Python.
-DBMSs used are MongoDB and Neo4j.
-Java Framework used are Spring Data MongoDB, JavaFX (for the GUI), JUnit (for the testing).
+- Built with Java (framework used: Spring Data MongoDB, JavaFX, JUnit).
+- Initial dataset processed with Python.
+- DBMSs used are MongoDB and Neo4j.
+
+### Suit the job
+A resume classification model using a Linkedin dataset obtained from Kaggle. 
+The job postings are classified in 2 classes: "STEM" or "not STEM".
+There are plenty of popular skills for these jobs.
+![skillsworldcloud](/assets/img/skillsworldcloud.png)
+Word embeddings are also used to extract knowledge from the skills.
+![wordembedding](/assets/img/wordembedding.png)
+This task evolves into a more vertical job market analysis, focusing primarily on the “Data Science” field, which is of particular interest. For this reason, a specific job posting dataset provided by Kaggle is used. After some data preprocessing and EDA, a job recommender is built, based just on the cosine similarity between TF-IDF vectors previously calculated from resumes and job offers.
+![tfidfrecommender](/assets/img/tfidfrecommender.png)
+
+### Search Engine - Inverted Index
+A search engine for text retrieval, leveraging an inverted index structure based on the MSMARCO Passages collection. The goal is to efficiently process queries and rank relevant documents for users.
+
+
