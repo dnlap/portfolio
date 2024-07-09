@@ -49,9 +49,11 @@ There are plenty of popular skills for these jobs.
 Word embeddings are also used to extract knowledge from the skills.
 ![wordembedding](/assets/img/wordembedding.png)
 This task evolves into a more vertical job market analysis, focusing primarily on the “Data Science” field, which is of particular interest. For this reason, a specific job posting dataset provided by Kaggle is used. After some data preprocessing and EDA, a job recommender is built, based just on the cosine similarity between TF-IDF vectors previously calculated from resumes and job offers.
-![tfidfrecommender](/assets/img/tfidfrecommender.png)
+![tfidfrecommender](/assets/img/tfidfjobrecommender.png)
 
 ### Search Engine - Inverted Index
 A search engine for text retrieval, leveraging an inverted index structure based on the MSMARCO Passages collection. The goal is to efficiently process queries and rank relevant documents for users.
+![searchengine](/assets/img/searchengine.png)
+
 
 
