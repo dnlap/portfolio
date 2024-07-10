@@ -4,6 +4,8 @@
 #### Technical Skills: Python, SQL, MATLAB, Java, R, PowerBI, Tableau, MS Office, WordPress, Autocad
 #### Languages: Italian (native), English (fluent), French (basic), Spanish (intermediate)
 
+---------------------------------------------------------------------
+
 ## Work Experience
 ### Data Analyst - Sidea Group, Bari, Italy (Apr 2021 - Sept 2022)
 - Responsible for conducting in-depth analyses of external company projects to ascertain their requirements and objectives.
@@ -30,6 +32,8 @@
 - ### B.Sc. in Management Engineering  | Polytechnic of Bari, Bari, Italy (_2017-2020_)
   
   Modules include: DBMS, SQL, Project Management, Matlab, Optimisation Methods and Algorithms, Management Information Systems, Quality of Productive Processes, Industrial Systems.
+
+---------------------------------------------------------------------
 
 ## Projects
 - ### Neural networks challenge (spring 2023) |  [GitHub Repo](https://github.com/dnlap/Neural-networks-challenge-spring-2023/tree/main)
