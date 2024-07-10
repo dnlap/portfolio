@@ -14,16 +14,20 @@
 
 ## Education
 
-- M.Sc. in Articial Intelligence & Data Engineering | University of Pisa, Pisa, Italy (_2021-2024_)
+- ### M.Sc. in Articial Intelligence & Data Engineering | University of Pisa, Pisa, Italy (_2021-2024_)
+  
   Modules include: Large-Scale and Multi-Structured Databases (Neo4j, MongoDB), Data Mining and Machine Learning, Cloud Computing (Kubernetes, Hadoop, Spark), Multimedia Information Retrieval and Computer Vision, Process Mining.
 
-- Erasmus+ Exchange Programme | Universidad Carlos III de Madrid (UC3M), Madrid, Spain (_Feb - June 2023_)
+- ### Erasmus+ Exchange Programme | Universidad Carlos III de Madrid (UC3M), Madrid, Spain (_Feb - June 2023_)
+  
   Modules include: Neural Networks, Linux, Operating Systems, Management Engineering, Data engineering legal and ethical issues (GDPR), Advanced Programming (Java).
 
 - Erasmus+ Exchange Programme | Pole Universitaire Leonard de Vinci, Paris, France (_Sept-Dec 2019_)
+
   Modules include: Financial Markets, Leading People and Organisation, Strategic Management, International Business and Innovation.
 
 - B.Sc. in Management Engineering  | Polytechnic of Bari, Bari, Italy (_2017-2020_)
+  
   Modules include: DBMS, SQL, Project Management, Matlab, Optimisation Methods and Algorithms, Management Information Systems, Quality of Productive Processes, Industrial Systems.
 
 ## Projects
