@@ -1,5 +1,5 @@
 # AI & Data Engineer
-[Linkedin Profile](https://www.linkedin.com/in/daniele-laporta/)
+![linkedin](/assets/img/linkedin.avif) [Linkedin Profile](https://www.linkedin.com/in/daniele-laporta/)
 
 #### Technical Skills: Python, SQL, MATLAB, Java, R, PowerBI, Tableau, MS Office, WordPress, Autocad
 #### Languages: Italian (native), English (fluent), French (basic), Spanish (intermediate)
