@@ -1,5 +1,5 @@
 # AI & Data Engineer
-[Linkedin](https://www.linkedin.com/in/daniele-laporta/)
+[Linkedin Profile](https://www.linkedin.com/in/daniele-laporta/)
 
 #### Technical Skills: Python, SQL, MATLAB, Java, R, PowerBI, Tableau, MS Office, WordPress, Autocad
 #### Languages: Italian (native), English (fluent), French (basic), Spanish (intermediate)
@@ -13,24 +13,26 @@
 - Utilize advanced data analysis techniques and statistical methods to derive actionable insights and inform decision-making processes in Python.
 
 ## Education
-### M.Sc. in Articial Intelligence & Data Engineering | University of Pisa, Pisa, Italy (_2021-2024_)
+### > M.Sc. in Articial Intelligence & Data Engineering | University of Pisa, Pisa, Italy (_2021-2024_)
 - Modules include: Large-Scale and Multi-Structured Databases (Neo4j, MongoDB), Data Mining and Machine Learning, Cloud Computing (Kubernetes, Hadoop, Spark), Multimedia Information Retrieval and Computer Vision, Process Mining.
 
-### Universidad Carlos III de Madrid (UC3M), Madrid, Spain (_Feb - June 2023_)
+### > Universidad Carlos III de Madrid (UC3M), Madrid, Spain (_Feb - June 2023_)
 Erasmus+ Exchange Programme
 - Modules include: Neural Networks, Linux, Operating Systems, Management Engineering, Data engineering legal and ethical issues (GDPR), Advanced Programming (Java).
 
-### Pole Universitaire Leonard de Vinci, Paris, France (_Sept-Dec 2019_)
+### > Pole Universitaire Leonard de Vinci, Paris, France (_Sept-Dec 2019_)
 Erasmus+ Exchange Programme
 - Modules include: Financial Markets, Leading People and Organisation, Strategic Management, International Business and Innovation.
 
-### B.Sc. in Management Engineering - Polytechnic of Bari, Bari, Italy (_2017-2020_)
+### > B.Sc. in Management Engineering - Polytechnic of Bari, Bari, Italy (_2017-2020_)
 - Modules include: DBMS, SQL, Project Management, Matlab, Optimisation Methods and Algorithms, Management Information Systems, Quality of Productive Processes, Industrial Systems.
 
 ## Projects
 ### Neural networks challenge (spring 2023)
 [Kaggle Competition](https://www.kaggle.com/competitions/neural-networks-challenge-spring-2023/overview)
+
 [GitHub Repo](https://github.com/dnlap/Neural-networks-challenge-spring-2023/tree/main)
+
 Multi classification of a time series imbalanced dataset with Python.
 ![Model](/assets/img/model.png)
 
