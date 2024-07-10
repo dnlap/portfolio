@@ -14,13 +14,8 @@
 
 ## Education
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
-### > M.Sc. in Articial Intelligence & Data Engineering | University of Pisa, Pisa, Italy (_2021-2024_)
-- Modules include: Large-Scale and Multi-Structured Databases (Neo4j, MongoDB), Data Mining and Machine Learning, Cloud Computing (Kubernetes, Hadoop, Spark), Multimedia Information Retrieval and Computer Vision, Process Mining.
+- M.Sc., Articial Intelligence & Data Engineering | University of Pisa, Pisa, Italy (_2021-2024_)
+  - Modules include: Large-Scale and Multi-Structured Databases (Neo4j, MongoDB), Data Mining and Machine Learning, Cloud Computing (Kubernetes, Hadoop, Spark), Multimedia Information Retrieval and Computer Vision, Process Mining.
 
 ### > Universidad Carlos III de Madrid (UC3M), Madrid, Spain (_Feb - June 2023_)
 Erasmus+ Exchange Programme
