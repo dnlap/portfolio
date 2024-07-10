@@ -14,57 +14,71 @@
 
 ## Education
 
-### M.Sc. in Articial Intelligence & Data EngineeringUniversity of Pisa, Pisa, Italy (_2021-2024_)
+- ### M.Sc. in Articial Intelligence & Data EngineeringUniversity of Pisa, Pisa, Italy (_2021-2024_)
   
   Modules include: Large-Scale and Multi-Structured Databases (Neo4j, MongoDB), Data Mining and Machine Learning, Cloud Computing (Kubernetes, Hadoop, Spark), Multimedia Information Retrieval and Computer Vision, Process Mining.
 
-### Erasmus+ Exchange Programme | Universidad Carlos III de Madrid (UC3M), Madrid, Spain (_Feb - June 2023_)
+- ### Erasmus+ Exchange Programme | Universidad Carlos III de Madrid (UC3M), Madrid, Spain (_Feb - June 2023_)
   
   Modules include: Neural Networks, Linux, Operating Systems, Management Engineering, Data engineering legal and ethical issues (GDPR), Advanced Programming (Java).
 
-### Erasmus+ Exchange Programme | Pole Universitaire Leonard de Vinci, Paris, France (_Sept-Dec 2019_)
+- ### Erasmus+ Exchange Programme | Pole Universitaire Leonard de Vinci, Paris, France (_Sept-Dec 2019_)
 
   Modules include: Financial Markets, Leading People and Organisation, Strategic Management, International Business and Innovation.
 
-### B.Sc. in Management Engineering  | Polytechnic of Bari, Bari, Italy (_2017-2020_)
+- ### B.Sc. in Management Engineering  | Polytechnic of Bari, Bari, Italy (_2017-2020_)
   
   Modules include: DBMS, SQL, Project Management, Matlab, Optimisation Methods and Algorithms, Management Information Systems, Quality of Productive Processes, Industrial Systems.
 
 ## Projects
-### Neural networks challenge (spring 2023)
-[Kaggle Competition](https://www.kaggle.com/competitions/neural-networks-challenge-spring-2023/overview)
+- ### Neural networks challenge (spring 2023)
+  Multi classification of a time series imbalanced dataset with Python.
 
-[GitHub Repo](https://github.com/dnlap/Neural-networks-challenge-spring-2023/tree/main)
+  [Kaggle Competition](https://www.kaggle.com/competitions/neural-networks-challenge-spring-2023/overview)
 
-Multi classification of a time series imbalanced dataset with Python.
-![Model](/assets/img/model.png)
+  [GitHub Repo](https://github.com/dnlap/Neural-networks-challenge-spring-2023/tree/main)
 
-### Phoneworld
-[GitHub Repo](https://github.com/dnlap/phoneworld-1)
-![logo](/assets/img/phoneworld.png)
+  ![Model](/assets/img/model.png)
 
-PhoneWorld is an application that everyone should use before buying a new phone or just to feed the desire to know which smartphone is considered the best by the community.
-- Built with Java (framework used: Spring Data MongoDB, JavaFX, JUnit).
-- Initial dataset processed with Python.
-- DBMSs used are MongoDB and Neo4j.
+- ### Phoneworld
+  PhoneWorld is an application that everyone should use before buying a new phone or just to feed the desire to know which smartphone is considered the best by the community.
 
-### Suit the job
-[GitHub Repo](https://github.com/dnlap/Suit-the-job)
+  Built with Java (framework used: Spring Data MongoDB, JavaFX, JUnit).
 
-A resume classification model using a Linkedin dataset obtained from Kaggle. 
-The job postings are classified in 2 classes: "STEM" or "not STEM".
-There are plenty of popular skills for these jobs.
-![skillsworldcloud](/assets/img/skillsworldcloud.png)
-Word embeddings are also used to extract knowledge from the skills.
-![wordembedding](/assets/img/wordembedding.png)
-This task evolves into a more vertical job market analysis, focusing primarily on the “Data Science” field, which is of particular interest. For this reason, a specific job posting dataset provided by Kaggle is used. After some data preprocessing and EDA, a job recommender is built, based just on the cosine similarity between TF-IDF vectors previously calculated from resumes and job offers.
-![tfidfrecommender](/assets/img/tfidfjobrecommender.png)
+  Initial dataset processed with Python.
 
-### Search Engine - Inverted Index
-[GitHub Repo](https://github.com/F-Zinga/MIRCV-project)
+  DBMSs used are MongoDB and Neo4j.
 
-A search engine for text retrieval, leveraging an inverted index structure based on the MSMARCO Passages collection. The goal is to efficiently process queries and rank relevant documents for users.
-![searchengine](/assets/img/searchengine.png)
+  [GitHub Repo](https://github.com/dnlap/phoneworld-1)
+
+  ![logo](/assets/img/phoneworld.png)
+
+
+
+- ### Suit the job
+
+  [GitHub Repo](https://github.com/dnlap/Suit-the-job)
+  
+  A resume classification model using a Linkedin dataset obtained from Kaggle. 
+  The job postings are classified in 2 classes: "STEM" or "not STEM".
+  There are plenty of popular skills for these jobs.
+  
+  ![skillsworldcloud](/assets/img/skillsworldcloud.png)
+  
+  Word embeddings are also used to extract knowledge from the skills.
+  
+  ![wordembedding](/assets/img/wordembedding.png)
+  
+  This task evolves into a more vertical job market analysis, focusing primarily on the “Data Science” field, which is of particular interest. For this reason, a specific job posting dataset provided by Kaggle is used. After some data preprocessing and EDA, a job recommender is built, based just on the cosine similarity between TF-IDF vectors previously calculated from resumes and job offers.
+  
+  ![tfidfrecommender](/assets/img/tfidfjobrecommender.png)
+
+- ### Search Engine - Inverted Index
+  A search engine for text retrieval, leveraging an inverted index structure based on the MSMARCO Passages collection. The goal is to efficiently process queries and rank relevant documents for users.
+
+  [GitHub Repo](https://github.com/F-Zinga/MIRCV-project)
+
+  ![searchengine](/assets/img/searchengine.png)
 
 
 
