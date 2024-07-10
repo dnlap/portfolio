@@ -12,6 +12,7 @@
 - Create detailed functional and technical documentation for projects, ensuring clarity and comprehensiveness.
 - Utilize advanced data analysis techniques and statistical methods to derive actionable insights and inform decision-making processes in Python.
 
+---------------------------------------------------------------------
 ## Education
 
 - ### M.Sc. in Articial Intelligence & Data EngineeringUniversity of Pisa, Pisa, Italy (_2021-2024_)
@@ -31,15 +32,15 @@
   Modules include: DBMS, SQL, Project Management, Matlab, Optimisation Methods and Algorithms, Management Information Systems, Quality of Productive Processes, Industrial Systems.
 
 ## Projects
-- ### Neural networks challenge (spring 2023)   [GitHub Repo](https://github.com/dnlap/Neural-networks-challenge-spring-2023/tree/main)
-- 
+- ### Neural networks challenge (spring 2023) |  [GitHub Repo](https://github.com/dnlap/Neural-networks-challenge-spring-2023/tree/main)
+  
   Multi classification of a time series imbalanced dataset with Python.
 
   [Kaggle Competition](https://www.kaggle.com/competitions/neural-networks-challenge-spring-2023/overview)
 
   ![Model](/assets/img/model.png)
 
-- ### Phoneworld   [GitHub Repo](https://github.com/dnlap/phoneworld-1)
+- ### Phoneworld  |  [GitHub Repo](https://github.com/dnlap/phoneworld-1)
 
   PhoneWorld is an application that everyone should use before buying a new phone or just to feed the desire to know which smartphone is considered the best by the community.
 
@@ -53,7 +54,7 @@
 
 
 
-- ### Suit the job   [GitHub Repo](https://github.com/dnlap/Suit-the-job)
+- ### Suit the job  |  [GitHub Repo](https://github.com/dnlap/Suit-the-job)
   
   A resume classification model using a Linkedin dataset obtained from Kaggle. 
   The job postings are classified in 2 classes: "STEM" or "not STEM".
@@ -69,7 +70,7 @@
   
   ![tfidfrecommender](/assets/img/tfidfjobrecommender.png)
 
-- ### Search Engine - Inverted Index   [GitHub Repo](https://github.com/F-Zinga/MIRCV-project)
+- ### Search Engine - Inverted Index  |  [GitHub Repo](https://github.com/F-Zinga/MIRCV-project)
 
   A search engine for text retrieval, leveraging an inverted index structure based on the MSMARCO Passages collection. The goal is to efficiently process queries and rank relevant documents for users.
 
