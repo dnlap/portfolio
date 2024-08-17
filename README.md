@@ -8,7 +8,7 @@
 
 ## Work Experience
 ### Data Analyst - Sidea Group, Bari, Italy (Apr 2021 - Sept 2022)
-- Responsible for conducting in-depth analyses of external company projects to ascertain their requirements and objectives.
+- Responsible for conducting in-depth analyses of external company projects to ascertain their requirements and objectives, ensuring at least 70% profit margin.
 - Conduct comprehensive gap analyses to identify areas for improvement and recommend effective solutions.
 - Collaborate closely with cross-functional team members to streamline the implementation of proposed changes, ensuring efficiency and synergy.
 - Create detailed functional and technical documentation for projects, ensuring clarity and comprehensiveness.
@@ -21,15 +21,15 @@
   
   Modules include: Large-Scale and Multi-Structured Databases (Neo4j, MongoDB), Data Mining and Machine Learning, Cloud Computing (Kubernetes, Hadoop, Spark), Multimedia Information Retrieval and Computer Vision, Process Mining.
 
-- ### Erasmus+ Exchange Programme | Universidad Carlos III de Madrid (UC3M), Madrid, Spain (_Feb - June 2023_)
+- ### Erasmus+ Exchange Programme | Universidad Carlos III de Madrid (UC3M), Madrid, Spain (_Feb - June 2023_), GPA: 4.7/5
   
   Modules include: Neural Networks, Linux, Operating Systems, Management Engineering, Data engineering legal and ethical issues (GDPR), Advanced Programming (Java).
 
-- ### Erasmus+ Exchange Programme | Pole Universitaire Leonard de Vinci, Paris, France (_Sept-Dec 2019_)
+- ### Erasmus+ Exchange Programme | Pole Universitaire Leonard de Vinci, Paris, France (_Sept-Dec 2019_), GPA: 4.7/5
 
   Modules include: Financial Markets, Leading People and Organisation, Strategic Management, International Business and Innovation.
 
-- ### B.Sc. in Management Engineering  | Polytechnic of Bari, Bari, Italy (_2017-2020_)
+- ### B.Sc. in Management Engineering  | Polytechnic of Bari, Bari, Italy (_2017-2020_), 100/110
   
   Modules include: DBMS, SQL, Project Management, Matlab, Optimisation Methods and Algorithms, Management Information Systems, Quality of Productive Processes, Industrial Systems.
 
