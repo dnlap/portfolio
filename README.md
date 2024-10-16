@@ -80,5 +80,11 @@
 
   ![searchengine](/assets/img/searchengine.png)
 
+- ### Football Object Detection with YOLO | [GitHub Repo](https://github.com/dnlap/football_yolo)
+  
+  This project implements object detection in football videos using the YOLO (You Only Look Once) model. The aim is to detect key elements in a football game such as players, referees, the ball, and goalkeepers.
+  
+   ![searchengine](/assets/img/od_preliminary_img.PNG)
+
 
 
