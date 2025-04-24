@@ -17,7 +17,7 @@
 ---------------------------------------------------------------------
 ## Education
 
-- ### M.Sc. in Articial Intelligence & Data EngineeringUniversity of Pisa, Pisa, Italy (_2021-2024_)
+- ### M.Sc. in Articial Intelligence & Data EngineeringUniversity of Pisa, Pisa, Italy (_2021-2024_), 107/110
   
   Modules include: Large-Scale and Multi-Structured Databases (Neo4j, MongoDB), Data Mining and Machine Learning, Cloud Computing (Kubernetes, Hadoop, Spark), Multimedia Information Retrieval and Computer Vision, Process Mining.
 
@@ -36,7 +36,7 @@
 ---------------------------------------------------------------------
 
 ## Projects
-- ### Neural networks challenge (spring 2023) |  [GitHub Repo](https://github.com/dnlap/Neural-networks-challenge-spring-2023/tree/main)
+- ### Neural Networks Challenge (spring 2023) |  [GitHub Repo](https://github.com/dnlap/Neural-networks-challenge-spring-2023/tree/main)
   
   Multi classification of a time series imbalanced dataset with Python.
 
