@@ -7,7 +7,10 @@
 ---------------------------------------------------------------------
 
 ## Work Experience
-### Data Analyst - Sidea Group, Bari, Italy (Apr 2021 - Sept 2022)
+### Business Analyst - ION, Pisa, Italy (May 2025 - Present)
+
+
+### Business Analyst - Sidea Group, Bari, Italy (Apr 2021 - Sept 2022)
 - Responsible for conducting in-depth analyses of external company projects to ascertain their requirements and objectives, ensuring at least 70% profit margin.
 - Conduct comprehensive gap analyses to identify areas for improvement and recommend effective solutions.
 - Collaborate closely with cross-functional team members to streamline the implementation of proposed changes, ensuring efficiency and synergy.
