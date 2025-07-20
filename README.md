@@ -8,6 +8,7 @@
 
 ## Work Experience
 ### Business Analyst - ION, Pisa, Italy (May 2025 - Present)
+- Joined as a Rotational Analyst through the ION Leadership Development Program.
 
 
 ### Business Analyst - Sidea Group, Bari, Italy (Apr 2021 - Sept 2022)
