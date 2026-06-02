@@ -21,7 +21,7 @@
 ---------------------------------------------------------------------
 ## Education
 
-- ### M.Sc. in Articial Intelligence & Data EngineeringUniversity of Pisa, Pisa, Italy (_2021-2024_), 107/110
+- ### M.Sc. in Artificial Intelligence & Data EngineeringUniversity of Pisa, Pisa, Italy (_2021-2024_), 107/110
   
   Modules include: Large-Scale and Multi-Structured Databases (Neo4j, MongoDB), Data Mining and Machine Learning, Cloud Computing (Kubernetes, Hadoop, Spark), Multimedia Information Retrieval and Computer Vision, Process Mining.
 
